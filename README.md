@@ -1,17 +1,2 @@
 # College
-College data for computational statistics
-We want to see if some factors influence to scores of college students
-Result is that :
-income doesnt have effect
-Distance: if college nearer the scores are lower
-if parents went to college, students have better scores
-student who lives in city have worse result
-boys in average had worse result
-except west part everyone were good
-American and African had lower scores than others
-Spanish students were better
-students who have own house were worse than others
-good income causes good result
-lower vacancy causes better result, it is so weird
-students who give higher tuition fee to college had better result
-education had good impact on result as well.
+College data for computational statistics: We want to see if some factors influence the scores of college students. The result is that income doesn't have an effect on Distance: if college is nearer, the scores are lower. If parents went to college, students would have better scores. A student who lives in the city has worse results; boys, on average, had worse results except for the western part, where everyone was good. Americans and Africans had lower scores than others. Spanish students were better,and students who had their own house were worse than others with good income because good results lower vacancy causes better results; weirdly, students who give higher tuition fees to college had better results, and education had a good impact on the result as well.
